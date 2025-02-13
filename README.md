@@ -2,6 +2,8 @@
 
 **gallery-slider-ui** is a smooth and beautiful image and video slider component for React. This package provides an easy-to-use slideshow that requires minimal setup, making it perfect for portfolios, galleries, and other image-centric applications.
 
+![Gallery Slider UI Preview](https://res.cloudinary.com/dfq3pefqy/image/upload/v1739463466/ya2msej00jhyntkyul7z.png)
+
 ## Features
 
 - Simple and intuitive API
